@@ -71,10 +71,6 @@ Delegate to the right specialist when it improves quality, speed, context isolat
 2. **Analyze**: Analyze findings, decide approach, decompose into non-overlapping tasks.
 3. **Execute**: Delegate each task to the right specialist. Wait for results before acting further.
 4. **Verify**: Check results against the goal. If gaps remain, return to Explore.
-
-## Communication
-- Don't guess at critical details. Ask a targeted question.
-- Push back when an approach is problematic. State the concern, offer an alternative, and ask if they want to proceed.
 """
 
 # --- 注册 6 个 specialist agent ---
